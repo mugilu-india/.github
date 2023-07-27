@@ -31,9 +31,9 @@ We kindly request that you review each of them before you start working on the r
 
 #### Logo:
 
-Mugilu™ logo in `#273BC9` |    Mugilu™ logo in `#273BC9`
+Mugilu™ logo in `#273BC9`  (font size: 144) |    Mugilu™ logo in `#273BC9`
 :-------------------------: |  :-------------------------:
-![ Bashe logo in `#273BC9`](https://github.com/mugilu-india/.github/assets/68323012/500c928c-d1cd-4b68-a7ad-d4a0d71a6ca7) | ![ Bashe logo in `#273BC9`](https://github.com/mugilu-india/.github/assets/68323012/500c928c-d1cd-4b68-a7ad-d4a0d71a6ca7)
+![ Bashe logo in `#273BC9`](https://github.com/mugilu-india/.github/assets/68323012/7dc9273c-86da-4eff-b22f-f5c4b3ae48ad) | ![ Bashe logo in `#273BC9`](https://github.com/mugilu-india/.github/assets/68323012/500c928c-d1cd-4b68-a7ad-d4a0d71a6ca7)
 
 
 
