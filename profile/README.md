@@ -39,5 +39,8 @@ Mugilu™ logo in `#1B2CFF` |    Mugilu™ logo in `#1B2CFF`
 :-------------------------: |  :-------------------------:
 ![ Bashe logo in `#1B2CFF`](https://github.com/mugilu-india/.github/assets/68323012/98437da8-6f54-40a6-baaf-ccaa0a334179) | ![ Bashe logo in `#1B2CFF`](https://github.com/mugilu-india/.github/assets/68323012/98437da8-6f54-40a6-baaf-ccaa0a334179)
 
+Mugilu™ in `#1B2CFF` |    Mugilu™ in `#1B2CFF`
+:-------------------------: |  :-------------------------:
+![ Bashe logo in `#1B2CFF`](https://github.com/mugilu-india/.github/assets/68323012/fbe9c509-8502-4371-867f-5aa4cb551f54) | ![ Bashe logo in `#1B2CFF`](https://github.com/mugilu-india/.github/assets/68323012/fbe9c509-8502-4371-867f-5aa4cb551f54)
 
 
